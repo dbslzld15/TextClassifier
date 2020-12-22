@@ -18,8 +18,8 @@
 * 각각의 코드에서 커스텀 해서 사용
 
 ### 성능
-F1 Score : 90.93%
-Accuracy : 91%
+* F1 Score : 90.93%
+* Accuracy : 91%
 
 ### HELP
 * https://github.com/MSWon/Sentimental-Analysis
